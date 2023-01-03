@@ -52,7 +52,7 @@ This is an MVC application built with the following technologies:
 
 ## Usage
 
-1. Go to the deployed application: [Deployed Heroku Link STOP: Support The Obliteration of Pandemics](https://support-pandemic-obliteration.herokuapp.com/)
+1. Go to the deployed application: [Deployed Heroku Link STOP: Support The Obliteration of Pandemics](https://stop.herokuapp.com/)
 
 ---
 ### Home
